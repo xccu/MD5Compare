@@ -1,0 +1,5 @@
+F:\WorkSpace\cppMD5Compare\MD5Compare\Debug\DotNet_MD5.dll
+F:\WorkSpace\cppMD5Compare\MD5Compare\Debug\DotNet_MD5.pdb
+F:\WorkSpace\cppMD5Compare\MD5Compare\DotNet_MD5\obj\Debug\DotNet_MD5.csproj.CoreCompileInputs.cache
+F:\WorkSpace\cppMD5Compare\MD5Compare\DotNet_MD5\obj\Debug\DotNet_MD5.dll
+F:\WorkSpace\cppMD5Compare\MD5Compare\DotNet_MD5\obj\Debug\DotNet_MD5.pdb
